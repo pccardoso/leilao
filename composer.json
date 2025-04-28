@@ -1,0 +1,8 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.0",
+        "datatables/datatables": "^1.10",
+        "phpoffice/phpspreadsheet": "^3.3",
+        "mpdf/mpdf": "^8.2"
+    }
+}

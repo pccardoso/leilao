@@ -1,0 +1,83 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box-list{
+    margin: 10px;
+    width: 350px;
+    height: 500px;
+    display: block;
+    float: left;
+}
+
+.box-list h5{
+    margin: 0px;
+}
+
+.box-list-title{
+    padding: 10px;
+    background-color: rgb(255, 106, 6);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    color: white;
+    font-size: 15pt;
+}
+
+.box-list-footer{
+    padding: 10px;
+    background-color: rgb(255, 106, 6);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    color: white;
+    font-size: 15pt;
+}
+
+.box-list-body{
+    padding: 10px;
+    background-color: rgb(15, 41, 81);
+    height: 150px;
+    overflow:auto;
+    transition: 1s;
+}
+
+.box-list-item{
+    border-style:solid;
+    border-width:1pt;
+    width: 290px;
+    height:50px;
+    border-left-style: solid;
+    border-left-color: rgb(255, 106, 6);
+    border-left-width: 5px;
+    padding-left: 10px;
+    background-color: whitesmoke;
+    margin-bottom: 5px;
+}
+
+.box-list-item p{
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+
+.box-list-item label{
+    font-size: 9pt;
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+
+.label-red{
+    background-color: red;
+    border-radius: 10px;
+    color: white;
+}
+
+.label-green{
+    background-color: blue;
+    border-radius: 10px;
+    color: white;
+}
+
+.box-list-item:hover{
+    background-color: rgb(255, 106, 6);
+    cursor: move;
+}
