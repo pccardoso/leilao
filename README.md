@@ -1,6 +1,6 @@
 # 💻 Sistema de Leilão - Evogard
 
-Este projeto é um sistema completo de leilões online, desenvolvido para gerenciar lances em tempo real, usuários autenticados e exibição de produtos com suas respectivas etapas de leilão.
+Este projeto é um sistema de leilões online, desenvolvido para gerenciar lances em tempo real, usuários autenticados e exibição de produtos com suas respectivas etapas de leilão.
 
 ---
 
