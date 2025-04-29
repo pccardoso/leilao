@@ -27,6 +27,6 @@ Este projeto é um sistema completo de leilões online, desenvolvido para gerenc
 
 ## 🙋‍♂️ Autor
 
-Paulo Cesar
-📧 LinkedIn: https://www.linkedin.com/in/paulo-cesar-b073881a0/
-🌎 https://www.usexoxo.com.br/leilao/index.php?msg=2
+- Paulo Cesar
+- 📧 LinkedIn: https://www.linkedin.com/in/paulo-cesar-b073881a0/
+- 🌎 https://www.usexoxo.com.br/leilao/index.php?msg=2
